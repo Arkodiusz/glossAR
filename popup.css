@@ -1,0 +1,17 @@
+body {
+    width: 280px;
+    color: #314d3e;
+}
+  
+h1 {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+p {
+    width: 100%;
+    font-size: 12px;
+    margin: 0;
+    padding: 2px;
+}
